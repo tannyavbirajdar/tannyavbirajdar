@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Tannya Birajdar.
 
 # 💫 About Me:
-<br><br> 🫧 About Me<br>- 🧠 Working on Brain Tumour Detection using ML<br>- 🤖 Currently learning AI and expanding my skills in Python  <br>- 🔍 Open to collaborating on ML/AI Python Projects<br>- 🎯 Goal: Build innovative solutions and have fun with code!<br><br>💻 Current Projects<br>🏥 Brain Tumour Detection - Improving accuracy with deep learning  <br>📊 Power BI Dashboards - Visualizing Netflix and World Population data  <br><br><br>
+<br><br> 🫧 About Me<br>- 🤖 Currently learning AI and expanding my skills in Python  <br>- 🔍 Open to collaborating on ML/AI Python Projects<br>- 🎯 Goal: Build innovative solutions and have fun with code!<br><br>💻 Current Projects<br>🏥 Brain Tumour Detection - Improving accuracy with deep learning  <br>📊 Power BI Dashboards - Visualizing Netflix and World Population data  <br><br><br>
 
 
 ## 🌐 Socials:
